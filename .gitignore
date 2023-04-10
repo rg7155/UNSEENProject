@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Assets from EpicGames
+# Content/Assets/[ASSET NAME]/*
+# !Content/Assets/[ASSET NAME]/.gitkeep
